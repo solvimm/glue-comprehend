@@ -1,6 +1,11 @@
-# AWS Glue + Amazon Comprehend
+# Escalando análise de sentimento com AWS Glue e Amazon Comprehend.
 
-Escalando análise de sentimento com AWS Glue e Amazon Comprehend.
+## **OBS [IMPORTANTE]** 
+
+A realização desse tutorial pode gerar custos consideráveis. Antes de executar, consulte a tabela de preç
+os do AWS Glue e execute-o de forma consciente para evitar possíveis cobranças não planejadas:
+
+-   https://aws.amazon.com/pt/glue/pricing/
 
 ## Pré-requisitos
 
